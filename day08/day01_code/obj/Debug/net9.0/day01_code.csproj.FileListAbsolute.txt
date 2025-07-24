@@ -1,0 +1,29 @@
+C:\Users\ckgsv\day01_code\bin\Debug\net9.0\day01_code.exe
+C:\Users\ckgsv\day01_code\bin\Debug\net9.0\day01_code.deps.json
+C:\Users\ckgsv\day01_code\bin\Debug\net9.0\day01_code.runtimeconfig.json
+C:\Users\ckgsv\day01_code\bin\Debug\net9.0\day01_code.dll
+C:\Users\ckgsv\day01_code\bin\Debug\net9.0\day01_code.pdb
+C:\Users\ckgsv\day01_code\obj\Debug\net9.0\day01_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckgsv\day01_code\obj\Debug\net9.0\day01_code.AssemblyInfoInputs.cache
+C:\Users\ckgsv\day01_code\obj\Debug\net9.0\day01_code.AssemblyInfo.cs
+C:\Users\ckgsv\day01_code\obj\Debug\net9.0\day01_code.csproj.CoreCompileInputs.cache
+C:\Users\ckgsv\day01_code\obj\Debug\net9.0\day01_code.dll
+C:\Users\ckgsv\day01_code\obj\Debug\net9.0\refint\day01_code.dll
+C:\Users\ckgsv\day01_code\obj\Debug\net9.0\day01_code.pdb
+C:\Users\ckgsv\day01_code\obj\Debug\net9.0\day01_code.genruntimeconfig.cache
+C:\Users\ckgsv\day01_code\obj\Debug\net9.0\ref\day01_code.dll
+D:\.Net_Depi\tasks & labs\day08\day01_code\bin\Debug\net9.0\day01_code.exe
+D:\.Net_Depi\tasks & labs\day08\day01_code\bin\Debug\net9.0\day01_code.deps.json
+D:\.Net_Depi\tasks & labs\day08\day01_code\bin\Debug\net9.0\day01_code.runtimeconfig.json
+D:\.Net_Depi\tasks & labs\day08\day01_code\bin\Debug\net9.0\day01_code.dll
+D:\.Net_Depi\tasks & labs\day08\day01_code\bin\Debug\net9.0\day01_code.pdb
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\day01_code.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\day01_code.AssemblyInfoInputs.cache
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\day01_code.AssemblyInfo.cs
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\day01_code.csproj.CoreCompileInputs.cache
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\day01_code.sourcelink.json
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\day01_code.dll
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\refint\day01_code.dll
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\day01_code.pdb
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\day01_code.genruntimeconfig.cache
+D:\.Net_Depi\tasks & labs\day08\day01_code\obj\Debug\net9.0\ref\day01_code.dll
