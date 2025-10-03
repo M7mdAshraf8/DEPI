@@ -1,0 +1,22 @@
+﻿@model Student
+
+<h1>Student Details</h1>
+<h3>@Model.Name (@Model.Age years old)</h3>
+<p>Department: @Model.Department?.Name</p>
+
+<h4>Courses</h4>
+<table class="table">
+    <tr>
+        <th>Course</th>
+        <th>Grade</th>
+    </tr>
+    @foreach (var c in Model.StCrRes)
+    {
+        <tr>
+            <td>@c.Course?.Name</td>
+            <td>@c.Grade</td>
+        </tr>
+    }
+</table>
+
+

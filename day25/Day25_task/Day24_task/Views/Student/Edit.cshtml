@@ -1,0 +1,22 @@
+﻿@model StudentDeptViewModel
+
+<h1>Edit Student</h1>
+
+<form method="post" asp-action="SaveEdit" asp-route-id="@Model.Id">
+    <input type="hidden" asp-for="@Model.Id" />
+    <div>
+        <label asp-for="@Model.Name"></label>
+        <input asp-for="@Model.Name" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="@Model.Age"></label>
+        <input asp-for="@Model.Age" class="form-control" />
+    </div>
+    <div>
+        <label>Department</label>
+        <select asp-for="@Model.DepartmentId" asp-items="@(new SelectList(Model.DeptList, "Id", "Name"))" class="form-control"></select>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Save</button>
+</form>
+<a asp-action="ShowAll" class="btn btn-secondary mt-2">Back</a>
+

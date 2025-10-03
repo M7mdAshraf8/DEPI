@@ -1,0 +1,16 @@
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\bin\Debug\net5.0\Day09_task.exe
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\bin\Debug\net5.0\Day09_task.deps.json
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\bin\Debug\net5.0\Day09_task.runtimeconfig.json
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\bin\Debug\net5.0\Day09_task.runtimeconfig.dev.json
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\bin\Debug\net5.0\Day09_task.dll
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\bin\Debug\net5.0\Day09_task.pdb
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\Day09_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\Day09_task.AssemblyInfoInputs.cache
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\Day09_task.AssemblyInfo.cs
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\Day09_task.csproj.CoreCompileInputs.cache
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\Day09_task.sourcelink.json
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\Day09_task.dll
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\refint\Day09_task.dll
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\Day09_task.pdb
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\Day09_task.genruntimeconfig.cache
+D:\.Net_Depi\tasks\day09\Day09_task\Day09_task\obj\Debug\net5.0\ref\Day09_task.dll

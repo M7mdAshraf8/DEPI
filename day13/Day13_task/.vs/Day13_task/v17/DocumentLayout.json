@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B40EC786-6786-4F94-8398-815F41956172}|Diff_Proj\\Diff_Proj.csproj|d:\\.net_depi\\tasks\\day13\\day13_task\\diff_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40EC786-6786-4F94-8398-815F41956172}|Diff_Proj\\Diff_Proj.csproj|solutionrelative:diff_proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE92CE4C-1051-4DB3-84BA-A81441B38079}|Day13_task\\Day13_task.csproj|d:\\.net_depi\\tasks\\day13\\day13_task\\day13_task\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE92CE4C-1051-4DB3-84BA-A81441B38079}|Day13_task\\Day13_task.csproj|solutionrelative:day13_task\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE92CE4C-1051-4DB3-84BA-A81441B38079}|Day13_task\\Day13_task.csproj|d:\\.net_depi\\tasks\\day13\\day13_task\\day13_task\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE92CE4C-1051-4DB3-84BA-A81441B38079}|Day13_task\\Day13_task.csproj|solutionrelative:day13_task\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE92CE4C-1051-4DB3-84BA-A81441B38079}|Day13_task\\Day13_task.csproj|d:\\.net_depi\\tasks\\day13\\day13_task\\day13_task\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE92CE4C-1051-4DB3-84BA-A81441B38079}|Day13_task\\Day13_task.csproj|solutionrelative:day13_task\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE92CE4C-1051-4DB3-84BA-A81441B38079}|Day13_task\\Day13_task.csproj|d:\\.net_depi\\tasks\\day13\\day13_task\\day13_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE92CE4C-1051-4DB3-84BA-A81441B38079}|Day13_task\\Day13_task.csproj|solutionrelative:day13_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Day13_task\\Employee.cs",
+              "RelativeDocumentMoniker": "Day13_task\\Employee.cs",
+              "ToolTip": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Day13_task\\Employee.cs",
+              "RelativeToolTip": "Day13_task\\Employee.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T00:03:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Diff_Proj\\Program.cs",
+              "RelativeDocumentMoniker": "Diff_Proj\\Program.cs",
+              "ToolTip": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Diff_Proj\\Program.cs",
+              "RelativeToolTip": "Diff_Proj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:38:56.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeA.cs",
+              "DocumentMoniker": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Day13_task\\TypeA.cs",
+              "RelativeDocumentMoniker": "Day13_task\\TypeA.cs",
+              "ToolTip": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Day13_task\\TypeA.cs",
+              "RelativeToolTip": "Day13_task\\TypeA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:37:38.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Day13_task\\Point.cs",
+              "RelativeDocumentMoniker": "Day13_task\\Point.cs",
+              "ToolTip": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Day13_task\\Point.cs",
+              "RelativeToolTip": "Day13_task\\Point.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:26:11.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Day13_task\\Program.cs",
+              "RelativeDocumentMoniker": "Day13_task\\Program.cs",
+              "ToolTip": "D:\\.Net_Depi\\tasks\\day13\\Day13_task\\Day13_task\\Program.cs",
+              "RelativeToolTip": "Day13_task\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:09:47.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

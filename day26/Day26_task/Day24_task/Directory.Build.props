@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <EnableSourceControlManagerQueries>false</EnableSourceControlManagerQueries>
+    <EnableSourceLink>false</EnableSourceLink>
+  </PropertyGroup>
+</Project>

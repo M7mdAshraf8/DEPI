@@ -1,0 +1,18 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Department Details";
+}
+<h1>Department Details</h1>
+
+<p><strong>Name:</strong> @Model.Name</p>
+<p><strong>Manager:</strong> @Model.MgrName</p>
+<p><strong>Students:</strong></p>
+
+<ul>
+    @foreach (var student in Model.Students ?? new List<Student>())
+    {
+        <li>@student.Name - Age: @student.Age</li>
+    }
+</ul>
+
+<a href="/Department/ShowAll" class="btn btn-secondary">Back to List</a>

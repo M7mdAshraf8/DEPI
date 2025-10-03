@@ -1,0 +1,35 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Add Student";
+}
+
+<h1>Add Student</h1>
+
+<form asp-action="SaveAdd" asp-controller="Student" method="post">
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-2">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-2">
+        <label asp-for="Age" class="form-label"></label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+    <div class="mb-2">
+        <label asp-for="DepartmentId" class="form-label"></label>
+        <select asp-for="DepartmentId" asp-items="ViewBag.DeptList" class="form-control">
+            <option value="0">-- Select Department --</option>
+        </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-2">Save</button>
+    <a asp-action="Index" class="btn btn-secondary mt-2">Back</a>
+</form>
+
