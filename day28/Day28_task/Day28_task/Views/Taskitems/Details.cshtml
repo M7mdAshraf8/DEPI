@@ -1,0 +1,159 @@
+﻿@model Core.Models.Taskitem
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container-fluid py-4">
+    <!-- Page Header -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="h3 text-primary fw-bold">
+            <i class="fas fa-file-alt me-2"></i> Task Details
+        </h1>
+        <a asp-action="Index" class="btn btn-outline-secondary">
+            <i class="fas fa-arrow-left me-2"></i> Back to List
+        </a>
+    </div>
+
+    <!-- Main Task Card -->
+    <div class="card border-0 shadow-lg task-detail-card @(Model.IsCompleted ? "border-success" : "border-warning")">
+        <div class="card-header bg-gradient text-white @(Model.IsCompleted ? "bg-success" : "bg-warning text-dark")">
+            <div class="d-flex justify-content-between align-items-center">
+                <h5 class="mb-0 fw-bold">
+                    @Html.DisplayFor(model => model.Title)
+                </h5>
+                <span class="badge bg-light text-dark px-3 py-2">
+                    <i class="@(Model.IsCompleted ? "fas fa-check-circle" : "fas fa-clock") me-1"></i>
+                    @(Model.IsCompleted ? "Completed" : "Pending")
+                </span>
+            </div>
+        </div>
+
+        <div class="card-body p-4">
+            <div class="row g-4">
+                <!-- Title -->
+                <div class="col-12">
+                    <div class="d-flex align-items-start">
+                        <i class="fas fa-heading text-primary mt-1 me-3"></i>
+                        <div class="flex-grow-1">
+                            <small class="text-muted text-uppercase fw-semibold">Title</small>
+                            <p class="mb-0 fs-5 text-dark">
+                                @Html.DisplayFor(model => model.Title)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <hr class="my-3">
+
+                <!-- Description -->
+                @if (!string.IsNullOrEmpty(Model.Description))
+                {
+                    <div class="col-12">
+                        <div class="d-flex align-items-start">
+                            <i class="fas fa-align-left text-info mt-1 me-3"></i>
+                            <div class="flex-grow-1">
+                                <small class="text-muted text-uppercase fw-semibold">Description</small>
+                                <p class="mb-0 text-muted">
+                                    @Html.DisplayFor(model => model.Description)
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr class="my-3">
+                }
+
+                <!-- Status -->
+                <div class="col-md-6">
+                    <div class="d-flex align-items-center">
+                        <i class="fas fa-check-square @(Model.IsCompleted ? "text-success" : "text-warning") me-3"></i>
+                        <div>
+                            <small class="text-muted text-uppercase fw-semibold">Status</small>
+                            <p class="mb-0 fw-semibold @(Model.IsCompleted ? "text-success" : "text-warning")">
+                                @(Model.IsCompleted ? "Completed" : "Pending")
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Created At -->
+                <div class="col-md-6">
+                    <div class="d-flex align-items-center">
+                        <i class="far fa-calendar-alt text-secondary me-3"></i>
+                        <div>
+                            <small class="text-muted text-uppercase fw-semibold">Created On</small>
+                            <p class="mb-0 text-dark">
+                                @Html.DisplayFor(model => model.CreatedAt)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="card-footer bg-light border-0 text-end">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary me-2">
+                <i class="fas fa-edit me-2"></i> Edit Task
+            </a>
+            <a asp-action="Index" class="btn btn-outline-secondary">
+                <i class="fas fa-list me-2"></i> Back to List
+            </a>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    <style>
+        .task-detail-card {
+            border-left: 5px solid transparent !important;
+            transition: all 0.3s ease;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+            .task-detail-card:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 15px 30px rgba(0,0,0,0.12) !important;
+            }
+
+        .card-header.bg-gradient {
+            background: linear-gradient(135deg, rgba(255,255,255,0.1), transparent);
+        }
+
+        .card-header .badge {
+            font-size: 0.85rem;
+        }
+
+        hr {
+            border-top: 1px dashed #dee2e6;
+        }
+
+        small.text-uppercase {
+            letter-spacing: 0.5px;
+            font-size: 0.75rem;
+        }
+
+        .btn {
+            border-radius: 0.5rem;
+            font-weight: 500;
+        }
+    </style>
+}
+
+@section Scripts {
+    <script>
+        // Optional: Add fade-in on load
+        document.addEventListener("DOMContentLoaded", function () {
+            const card = document.querySelector('.task-detail-card');
+            card.style.opacity = '0';
+            card.style.transform = 'translateY(20px)';
+            setTimeout(() => {
+                card.style.transition = 'all 0.6s ease';
+                card.style.opacity = '1';
+                card.style.transform = 'translateY(0)';
+            }, 100);
+        });
+    </script>
+}

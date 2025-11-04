@@ -1,0 +1,15 @@
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\bin\Debug\net8.0\Core.deps.json
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\bin\Debug\net8.0\Core.dll
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\bin\Debug\net8.0\Core.pdb
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\Core.dll
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\refint\Core.dll
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\Core.pdb
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\.Net_Depi\Tasks_DEPI\day28\Day28_task\Core\obj\Debug\net8.0\ref\Core.dll
