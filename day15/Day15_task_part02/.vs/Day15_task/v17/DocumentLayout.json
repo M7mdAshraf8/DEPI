@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.Net_Depi\\tasks\\day15\\Day15_task_part02\\",
+  "WorkspaceRootPath": "D:\\.Net_Depi\\Tasks_DEPI\\day15\\Day15_task_part02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D1925F1-0F7E-46F3-9D58-CCDA96D8E75A}|Day15_task\\Day15_task.csproj|d:\\.net_depi\\tasks\\day15\\day15_task_part02\\day15_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D1925F1-0F7E-46F3-9D58-CCDA96D8E75A}|Day15_task\\Day15_task.csproj|d:\\.net_depi\\tasks_depi\\day15\\day15_task_part02\\day15_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D1925F1-0F7E-46F3-9D58-CCDA96D8E75A}|Day15_task\\Day15_task.csproj|solutionrelative:day15_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.Net_Depi\\tasks\\day15\\Day15_task_part02\\Day15_task\\Program.cs",
+              "DocumentMoniker": "D:\\.Net_Depi\\Tasks_DEPI\\day15\\Day15_task_part02\\Day15_task\\Program.cs",
               "RelativeDocumentMoniker": "Day15_task\\Program.cs",
-              "ToolTip": "D:\\.Net_Depi\\tasks\\day15\\Day15_task_part02\\Day15_task\\Program.cs",
+              "ToolTip": "D:\\.Net_Depi\\Tasks_DEPI\\day15\\Day15_task_part02\\Day15_task\\Program.cs",
               "RelativeToolTip": "Day15_task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwGwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T15:27:57.71Z",
               "EditorCaption": ""

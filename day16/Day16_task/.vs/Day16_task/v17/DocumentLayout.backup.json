@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{27BE7A6F-2986-46B3-89F0-9F4F37EEF7DE}|Day16_task\\Day16_task.csproj|d:\\.net_depi\\tasks\\day16\\day16_task\\day16_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27BE7A6F-2986-46B3-89F0-9F4F37EEF7DE}|Day16_task\\Day16_task.csproj|solutionrelative:day16_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27BE7A6F-2986-46B3-89F0-9F4F37EEF7DE}|Day16_task\\Day16_task.csproj|d:\\.net_depi\\tasks\\day16\\day16_task\\day16_task\\classess\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27BE7A6F-2986-46B3-89F0-9F4F37EEF7DE}|Day16_task\\Day16_task.csproj|solutionrelative:day16_task\\classess\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27BE7A6F-2986-46B3-89F0-9F4F37EEF7DE}|Day16_task\\Day16_task.csproj|d:\\.net_depi\\tasks\\day16\\day16_task\\day16_task\\classess\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27BE7A6F-2986-46B3-89F0-9F4F37EEF7DE}|Day16_task\\Day16_task.csproj|solutionrelative:day16_task\\classess\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyStack.cs",
-              "DocumentMoniker": "D:\\.Net_Depi\\tasks\\day16\\Day16_task\\Day16_task\\Classess\\MyStack.cs",
-              "RelativeDocumentMoniker": "Day16_task\\Classess\\MyStack.cs",
-              "ToolTip": "D:\\.Net_Depi\\tasks\\day16\\Day16_task\\Day16_task\\Classess\\MyStack.cs",
-              "RelativeToolTip": "Day16_task\\Classess\\MyStack.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T10:15:26.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "D:\\.Net_Depi\\tasks\\day16\\Day16_task\\Day16_task\\Classess\\Helper.cs",
-              "RelativeDocumentMoniker": "Day16_task\\Classess\\Helper.cs",
-              "ToolTip": "D:\\.Net_Depi\\tasks\\day16\\Day16_task\\Day16_task\\Classess\\Helper.cs",
-              "RelativeToolTip": "Day16_task\\Classess\\Helper.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAswCkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T09:56:22.847Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.Net_Depi\\tasks\\day16\\Day16_task\\Day16_task\\Program.cs",
               "RelativeDocumentMoniker": "Day16_task\\Program.cs",
-              "ToolTip": "D:\\.Net_Depi\\tasks\\day16\\Day16_task\\Day16_task\\Program.cs*",
-              "RelativeToolTip": "Day16_task\\Program.cs*",
-              "ViewState": "AgIAAOEAAAAAAAAAAAAwwO4AAAAgAAAAAAAAAA==",
+              "ToolTip": "D:\\.Net_Depi\\tasks\\day16\\Day16_task\\Day16_task\\Program.cs",
+              "RelativeToolTip": "Day16_task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T08:16:50.764Z",
               "EditorCaption": ""

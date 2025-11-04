@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net_Depi\\tasks\\day14\\Day14_task\\Day14_task\\Day14_task.csproj",
+      "projectUniqueName": "D:\\.Net_Depi\\Tasks_DEPI\\day14\\Day14_task\\Day14_task\\Day14_task.csproj",
       "projectName": "Day14_task",
-      "projectPath": "D:\\.Net_Depi\\tasks\\day14\\Day14_task\\Day14_task\\Day14_task.csproj",
+      "projectPath": "D:\\.Net_Depi\\Tasks_DEPI\\day14\\Day14_task\\Day14_task\\Day14_task.csproj",
       "packagesPath": "C:\\Users\\ckgsv\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net_Depi\\tasks\\day14\\Day14_task\\Day14_task\\obj\\",
+      "outputPath": "D:\\.Net_Depi\\Tasks_DEPI\\day14\\Day14_task\\Day14_task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
